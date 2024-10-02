@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# sensitive files
+lib/aba-coin-firebase-adminsdk-t5d7s-a7654e53fb.json
